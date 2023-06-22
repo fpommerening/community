@@ -1,5 +1,5 @@
 ## Titel
-OpenTelemetry für C#
+OpenTelemetry mit  C#
 
 ## Typ
 Workshop
