@@ -14,6 +14,8 @@ GitHub, CI/CD, Workflows
 ## Level
 Fortgeschritten
 
+## Beschreibung
+
 Entwickler haben die Angewohnheit sich Aufgaben zu entledigen die häufig wiederkehrend und/oder lästig sind. Dazu automatisieren sie mit selbst erstellten Skripten und Tools. Auch rund um ein Github Repository gibt es viele Aufgaben zu erledigen. In diesem Workshop automatisieren wir diese mittels Github Actions. Die entstehenden Workflows gehen dabei weit über Continuous Integration (CI) hinaus. So kann auf verschiedenste Events wie ein neues Issue oder ein Pull Request reagiert werden.
 
 Zu Beginn erstellen wir aus bestehen Schritten u.a. einen Workflow welcher eine Anwendung baut, testet und eine OCI-Image erstellt. Wir lernen dabei auch GitHub Packages, die Ablage für Container-Images, npm- und Nugetpakete und vieles mehr, kennen.
