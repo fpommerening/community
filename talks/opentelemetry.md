@@ -8,7 +8,7 @@ Talk
 Deutsch
 
 ## Schlagworte
-GitHub, CI/CD, Workflows
+Monitoring, .Net, CNCF
 
 ## Level
 Fortgeschritten
