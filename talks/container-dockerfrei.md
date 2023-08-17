@@ -13,4 +13,8 @@ Container, Docker, OCI
 ## Level
 Grundlagen
 
-Container haben seit mehreren Jahren die Art, wie Anwendungen entwickelt, verteilt und betrieben werden maßgeblich verändert. Ein Wegbereiter dafür war ohne Zweifel Docker. Einige fürchteten und fürchten sich, vom Hersteller Docker und seinen Produkten abhängig zu machen. Die Open Container Initiative (OCI) hat sich zur Aufgabe gemacht, offene Standards für ein Container-Ökosystem zu entwickeln. Dieser Vortrag stellt die wichtigen Standards vor und zeigt alternative Implementierungen zu Docker. Auf die Tools Podman und Buildah wird dabei näher eingegangen. Den Abschluss bildet die Integration in die Container Orchestration Kubernetes.
+Seit einigen Jahren haben Container die Art und Weise, wie Anwendungen entwickelt, verteilt und betrieben werden, grundlegend verändert. Beginnen wir mit dem offensichtlichen Vorreiter: Docker. Doch nicht alle sind begeistert von der Vorstellung, von Docker und seinen Produkten abhängig zu sein. Aber keine Sorge, hier kommt die Lösung!
+
+Die Open Container Initiative (OCI) hat sich das Ziel gesetzt, offene Standards für ein Container-Ökosystem zu etablieren. Frank stellt in seinem Talk die wichtigen Standards vor und zeigt alternative Ansätze, die nichts mit Docker zu tun haben. Genaues gibt's zu Tools wie Podman und Buildah. Und zum Abschluss zeigt er, wie all das nahtlos in die Container-Orchestrierung mit Kubernetes passt.
+
+Klingt interessant, dann komm zum Vortrag. Versprochen: Es wird informativ und unterhaltsam – Container mal anders eben.
