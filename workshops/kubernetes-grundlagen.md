@@ -14,8 +14,8 @@ Container, Orchestrierung und Kubernetes
 Grundlagen
 
 ## Beschreibung
-Um Software schnell zu entwickeln und bereitzustellen, sind Container das aktuelle Mittel der Wahl. Geht es dann aber um den skalierbaren Betrieb von einzelnen Containern oder Containerstacks, kommt man an Werkzeugen zur Orchestrierung kaum vorbei. In diesem Workshop geht es um das meistverbreitete Werkzeug Kubernetes. Erfahrt die Architektur einer Kubernetes-Umgebung und erlebt den grundlegenden Einsatz von Container mit Pods, Deployment und Services. Dabei werden auch weitergehende Konzepte zur Konfigurationsverwaltung, Datenspeicherung und Metadaten genutzt. Zielgruppe für den Workshop sind Developer die bereits ein gutes Verständnis von Container-Technologien z. B. Docker besitzen und nun in Kubernetes einsteigen möchten.
+Um Software schnell zu entwickeln und bereitzustellen, ist der Einsatz von Containern heutzutage das Mittel der Wahl. Doch wenn es darum geht, einzelne Container oder Container-Stacks skalierbar zu betreiben, führt kaum ein Weg an Orchestrierungswerkzeugen vorbei. Dieser Workshop widmet sich dem weitverbreiteten Werkzeug Kubernetes. Du erhältst Einblicke in die Architektur einer Kubernetes-Umgebung und erlebst den grundlegenden Einsatz von Containern mit Pods, Deployments und Services. Dabei werden auch weitergehende Konzepte zur Konfigurationsverwaltung, Datenspeicherung und Metadaten verwendet. Die Zielgruppe für diesen Workshop sind Developer, die bereits ein solides Verständnis von Container-Technologien wie Docker besitzen und nun in die Welt von Kubernetes eintauchen möchten.
 
-Für die praktischen Übungen stelle ich eine Umgebung im Internet bereit. Der Zugriff wird nur ein aktueller Browser benötigt. 
+Für die praktischen Übungen stellen wir eine Online-Umgebung bereit, die lediglich einen aktuellen Browser erfordert.
 
-Nimm am Workshop teil und werde zum Steuermann (vom griechischen Kubernetes) für Container.
+Nimm am Workshop teil und werde zum Steuermann (vom griechischen "Kubernetes") für Container.
