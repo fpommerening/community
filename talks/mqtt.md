@@ -22,4 +22,4 @@ Die Industrie 4.0 und das Internet der Dinge (IoT) erfordern zuverlässige und r
 
 MQTT kommt heute vielfach zur leichtgewichtiger Sychronisation von Microservices zum Einsatz.  Examplarisch wird diese Integration an einer .NET 8 Anwendung präsentiert. Große Cloudanbieter haben die Bedeutung von MQTT erkannt und bieten Dienste wie AWS IoT Core und Azure IoT Hub. Der Vortrag gibt deshalb einen Ausblick auf die Absicherung mittels Zertifikaten und die Verknüpfung mehrerer Broker.
 
-Sei dabei und entdecke die faszinierende Verbindung von Ölbohrtürmen und IoT! Erfahre, wie deine Anwendung optimal von MQTT profitieren kann.
+Sei dabei und entdecke die faszinierende Verbindung von Ölpipelines und IoT! Erfahre, wie deine Anwendung optimal von MQTT profitieren kann.
