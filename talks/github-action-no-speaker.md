@@ -19,5 +19,4 @@ Entwickler nutzen Tools und Skripte, um häufig wiederkehrende oder lästige Auf
 
 Der Vortrag stellt die Grundlagen der GitHub Actions vor. Am Beispiel einer .NET-Anwendung, die gebaut und in ein OCI-Image umgewandelt wird, werden die Bestandteile und Möglichkeiten eines Workflows erläutert. Als Ausblick wird auf die GitHub Packages eingegangen, die als Ablage für Container-Images, npm- und NuGet-Pakete und vieles mehr dienen.
 
-Komm zu diesem Vortrag und lass GitHub (Actions) für dich arbeiten.
 Komm zum Vortrag und lass Github (Actions) für dich arbeiten.
