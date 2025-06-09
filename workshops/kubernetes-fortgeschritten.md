@@ -1,5 +1,5 @@
 ## Titel
-Kubernetes für Fortgeschrittene
+Kubernetes für Fortgeschrittene - Edition 2025
 
 ## Typ
 Workshop
